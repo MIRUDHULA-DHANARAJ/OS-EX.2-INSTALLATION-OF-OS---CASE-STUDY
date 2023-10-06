@@ -53,6 +53,7 @@ Restart your computer. As it boots up, access the boot menu or BIOS/UEFI setting
 . If you're installing the OS on a new drive or wish to create custom partitions, use the installation wizard to configure the storage layout. For Windows, you can create, format, and select partitions during this step. For Linux, you can choose to install the bootloader (e.g., GRUB) and configure partitions. You may need to create a root (/) and, optionally, a swap partition.
 
 ![image](https://github.com/MIRUDHULA-DHANARAJ/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/94828147/725295ff-26f5-4314-82e5-9c25d5f2209a)
+
 9.Begin Installation:
 
 . Confirm your partition selections and begin the installation process. This may take some time, dependingon your hardware
